@@ -7,11 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [FajarAdi25.github.io](FajarAdi25.github.io)
 
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **fajaradiprasetio@gmail.com**
-
-- ⚡ Fun fact **Let's play Mobile Legend with me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
