@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [FajarAdi25.github.io](FajarAdi25.github.io)
+- 👨‍💻 All of my projects are available at [My Repository](https://github.com/FajarAdi25?tab=repositories)
 
 - 📫 How to reach me **fajaradiprasetio@gmail.com**
 
