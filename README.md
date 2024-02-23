@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/FajarAdi25/FajarAdi25/blob/main/github-header-image.png)](https://fajaradi25.github.io/)
 <h1 align="center">Hi 👋, I'm Fajar Adi Prasetio</h1>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3848914-Programmer-Thomas%2Fattachments%2F10055456%3Fmode%3Dmedia&psig=AOvVaw23BP3YjyJXKJdjp5apctEo&ust=1708735851596000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCHvZ6fwIQDFQAAAAAdAAAAABAQ">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fajaradi25&label=Profile%20views&color=0e75b6&style=flat" alt="fajaradi25" /> </p>
 
 - 🌱 I’m currently learning **React**
